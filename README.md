@@ -57,15 +57,17 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Desenvolvedor
 
 <p>
-    <img
-      align=left
-      margin=10
-      width=80
-      src="https://avatars.githubusercontent.com/u/81938754?v=4"
-    />
-  <p>
-    <p>&nbsp&nbspYuri Dias<br>
-    &nbsp&nbsp&nbsp
+    <a href="https://github.com/yuridiasp">
+        <img
+          align=left
+          margin=10
+          width=80
+          src="https://avatars.githubusercontent.com/u/81938754?v=4"
+        />
+    </a>
+      <p>
+        <p>&nbsp&nbspYuri Dias<br>
+        &nbsp&nbsp&nbsp
     </p>
 </p>
 
